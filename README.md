@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm vamsick</h1>
 <h3 align="center">Hi i am a crypto validator and developer</h3>
-<img align="center" alt="cool" width="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE2MDhzcGxybndjM3JxaHdoZWhjNmFqcGNxN3Fya3pjdTdjYzd0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PzMHYQJnuKbenMrXu9/giphy.gif">
+<img align="center" alt="cool" width="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE2MDhzcGxybndjM3JxaHdoZWhjNmFqcGNxN3Fya3pjdTdjYzd0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PzMHYQJnuKbenMrXu9/giphy.gif">
 
 
 
