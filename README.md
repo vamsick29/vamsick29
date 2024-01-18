@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **sickvamsick@gmail.com**
   
-<img align="left" alt="cool" width="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3ptZzJkaWthZW5kd3dseWwwd2g5Y2hua2JndmQ4d3U3N2dyc2Z1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bTrTnPMPq8UORCrBWG/giphy.gif">
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
