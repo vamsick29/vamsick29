@@ -1,7 +1,6 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm vamsick</h1>
 <h3 align="center">Hi i am a crypto validator and developer</h3>
-<img align="right" alt="cool" width="400" src="https://giphy.com/gifs/HIDIVE-hidive-theeminenceinshadow-eminenceinshadow-PzMHYQJnuKbenMrXu9">
+<img align="right" alt="cool" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE2MDhzcGxybndjM3JxaHdoZWhjNmFqcGNxN3Fya3pjdTdjYzd0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PzMHYQJnuKbenMrXu9/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsick29&label=Profile%20views&color=0e75b6&style=flat" alt="vamsick29" /> </p>
 
@@ -32,18 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vamsick29&show_icons=true&locale=en" alt="vamsick29" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vamsick29&" alt="vamsick29" /></p>
-
-<!--
-**vamsick29/vamsick29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
