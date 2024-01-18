@@ -1,4 +1,3 @@
-[![MasterHead](https://www.fovtysolutions.com/wp-content/uploads/2022/09/A-Beginners-Guide-to-Blockchain-Development-1024x507.jpg)]
 <h1 align="center">Hi 👋, I'm vamsick</h1>
 <h3 align="center">Hi i am a crypto validator and developer</h3>
 <img align="center" alt="cool" width="800" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE2MDhzcGxybndjM3JxaHdoZWhjNmFqcGNxN3Fya3pjdTdjYzd0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PzMHYQJnuKbenMrXu9/giphy.gif">
