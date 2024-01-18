@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm vamsick</h1>
 <h3 align="center">Hi i am a crypto validator and developer</h3>
-<img align="center" alt="cool" width="400" height="400"src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE2MDhzcGxybndjM3JxaHdoZWhjNmFqcGNxN3Fya3pjdTdjYzd0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PzMHYQJnuKbenMrXu9/giphy.gif">
+<img align="center" alt="cool" width="400" height="400"src="[https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzE2MDhzcGxybndjM3JxaHdoZWhjNmFqcGNxN3Fya3pjdTdjYzd0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PzMHYQJnuKbenMrXu9/giphy.gif](https://i.makeagif.com/media/11-12-2023/1Xwzf7.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamsick29&label=Profile%20views&color=0e75b6&style=flat" alt="vamsick29" /> </p>
 
